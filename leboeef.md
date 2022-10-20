@@ -1,8 +1,4 @@
----
-title: Rektal administrering utav substanser.
-taxonomy:
-    category: blog
----
+
 ## **Rektal administratering utav psykoaktiva substanser.**   
    
 > *skriven utav ket, 17e oktober, 2022*  
